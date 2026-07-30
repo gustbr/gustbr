@@ -22,3 +22,4 @@ My path from construction and field work to software engineering is unconvention
 📍 Based in Lisbon  
 🌍 Open to remote freelance or full-time AI engineering roles, and relocation  
 🔗 [Website](https://augustinbrun.com) · [Agent observability](https://github.com/gustbr/pi-observability-package)
+
