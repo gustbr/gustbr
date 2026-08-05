@@ -19,7 +19,7 @@ I taught myself what I needed to earn my French high school diploma, then learne
 
 I later spent six months working as a scaffolder in the Australian mines. After returning to France, I moved into sales and broke two company records within three months. I wanted to develop the skill my earlier projects had been missing: how to sell.
 
-Today, I build complex software that combines dependable workflows with AI capabilities. Alongside freelancing, I contribute to open-source projects and explore my growing obsession with reliable agent harnesses.
+Today, I build complex software that combines deterministic workflows with AI capabilities. Alongside freelancing, I contribute to open-source projects and explore my growing obsession with reliable agent harnesses.
 
 I’m looking to join a team where I can work with great people, push the boundaries of what software can do, and build things that have a positive impact.
 
