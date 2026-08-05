@@ -1,6 +1,6 @@
 # Hi, I’m Augustin 👋
 
-I help small and medium-sized businesses turn complex, manual workflows into reliable software—using AI where it’s useful.
+I help small and medium-sized businesses turn complex, manual workflows into reliable software using AI where it’s useful.
 
 ## Selected work
 
@@ -15,7 +15,7 @@ My path into software wasn’t conventional.
 
 I started working young in construction, trained as a mason with the Compagnons du Devoir, and worked on historical monuments. A herniated disc eventually forced me to change direction.
 
-I taught myself what I needed to earn my French high school diploma, then learned to code. I freelanced in growth marketing, took on development projects, and launched several SaaS products. Most failed—but they taught me that building something is only half the job.
+I taught myself what I needed to earn my French high school diploma, then learned to code. I freelanced in growth marketing, took on development projects, and launched several SaaS products. Most failed, but they taught me that building something is only half the job.
 
 I later spent six months working as a scaffolder in the Australian mines. After returning to France, I moved into sales and broke two company records within three months. I wanted to develop the skill my earlier projects had been missing: how to sell.
 
