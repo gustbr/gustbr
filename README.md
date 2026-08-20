@@ -1,28 +1,56 @@
-# Hi, I’m Augustin 👋
+<p align="center"><strong>Augustin BRUN · Forward Deployed Engineer</strong></p>
 
-I help small and medium-sized businesses turn complex, manual workflows into reliable software using AI where it’s useful.
+<h1 align="center">Delegate your<br />Agent Operations to me</h1>
+
+<p align="center">
+  👋 My name is Augustin. Companies delegate their AgentOps to me.<br />
+  I build, run, and improve their AI-agent workflows so they save time<br />
+  and can focus on what really matters.
+</p>
+
+<p align="center">
+  <a href="https://augustinbrun.com">Website</a> ·
+  <a href="https://cal.com/augustin-brun-54dwdu/30min">Book a call</a>
+</p>
+
+## Agent Operations
+
+Companies delegate their AgentOps to me. I turn fragmented tools, manual processes, and business knowledge into reliable operational systems.
+
+My work combines:
+
+- AI agents for reasoning and assistance
+- Deterministic software for critical calculations and actions
+- Human validation wherever control matters
+- Continuous monitoring and improvement after deployment
 
 ## Selected work
 
-- Deployed an operational agent supporting **19 business workflows**
-- Built a production system managing **200+ synchronized and traceable recipes**
-- Developed an expert assistant where **AI proposes, software calculates, and humans validate**
-- Built data infrastructure processing **300K+ companies per day**
+### RGMC France — Operational agent
 
-## My path
+Built an operational agent connected to the company’s existing systems, covering client creation, sales follow-up, payments, reminders, automatic document and label printing, and client knowledge rebuilt from internal data.
 
-My path into software wasn’t conventional.
+**Result:** 19 operational workflows structured around an agent, with human validation before critical actions.
 
-I started working young in construction, trained as a mason with the Compagnons du Devoir, and worked on historical monuments. A herniated disc eventually forced me to change direction.
+### ROBOTIQUE ELEVAGE SARL — Expert AI assistant
 
-I taught myself what I needed to earn my French high school diploma, then learned to code. I freelanced in growth marketing, took on development projects, and launched several SaaS products. Most failed, but they taught me that building something is only half the job.
+Built an assistant for dairy-cow ration analysis without delegating the underlying calculations to AI. Claude proposes hypotheses, the application calculates nutrition balances deterministically, and the expert keeps the final decision.
 
-I later spent six months working as a scaffolder in the Australian mines. After returning to France, I moved into sales and broke two company records within three months. I wanted to develop the skill my earlier projects had been missing: how to sell.
+**Result:** AI proposes, software calculates, the human validates.
 
-Today, I build complex software that combines deterministic workflows with AI capabilities. Alongside freelancing, I contribute to open-source projects and explore my growing obsession with reliable agent harnesses.
+### And more...
 
-I’m looking to join a team where I can work with great people, push the boundaries of what software can do, and build things that have a positive impact.
+**5+ years of experience as a freelancer.**
 
-📍 Based in Lisbon  
-🌍 Open to remote freelance or full-time AI engineering roles, and relocation  
-🔗 [Website](https://augustinbrun.com)
+## How I work
+
+1. Understand the operation and identify the real bottleneck.
+2. Build around the tools and knowledge already used by the team.
+3. Keep critical actions controlled and observable.
+4. Run, evaluate, and improve the system continuously.
+
+## Let’s talk
+
+If your team is losing time to fragmented tools or repetitive operations, I can help turn that work into a reliable agent workflow.
+
+[Book a 30-minute call](https://cal.com/augustin-brun-54dwdu/30min) · [augustinbrun.com](https://augustinbrun.com)
