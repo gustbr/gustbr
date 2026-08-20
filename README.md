@@ -1,4 +1,4 @@
-<p align="center"><strong>Augustin BRUN · Forward Deployed Engineer</strong></p>
+<p align="center"><strong>Augustin BRUN · Forward Deployed Engineer · 5+ years as a freelancer</strong></p>
 
 <h1 align="center">Delegate your Agent Operations to me</h1>
 
