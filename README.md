@@ -1,6 +1,6 @@
 <p align="center"><strong>Augustin BRUN · Forward Deployed Engineer</strong></p>
 
-<h1 align="center">Delegate your<br />Agent Operations to me</h1>
+<h1 align="center">Delegate your Agent Operations to me</h1>
 
 <p align="center">
   👋 My name is Augustin. Companies delegate their AgentOps to me.<br />
